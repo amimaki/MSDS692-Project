@@ -32,7 +32,7 @@ The predicted vs actual political party for the two models can be compared in th
 ![accuracy](https://github.com/amimaki/MSDS692-Project/blob/main/images/accuracy.PNG)
 
 ## Conclusion
-In conclusion I believe it is possible to accurately predict political party alignment based on vaccination rates, however further research could be done to see if this holds true across other states and across the country. With more data points the resuts may differ but I think that it would improve my model.  One of the drawbacks I would say to my research and model is the limited data points I had because I organized it by county.  I also think further research or data could be drawn from using the 2020 election results.
+In conclusion I believe it is possible to accurately predict political party alignment based on vaccination rates, however further research could be done to see if this holds true across other states and across the country. With more data points the results may differ but I think that it would improve my model.  One of the drawbacks I would say to my research and model is the limited data points I had because I organized it by county.  I also think further research or data could be drawn from using the 2020 election results.
 
 My results do not show a causation because of the methods that I used.  I would predict that because of the timeline of my data that politics are what affect vaccine buy in and that people are not picking their political party based on their vaccination opinions.  This is another area that would be beneficial to study in the future.  
 
